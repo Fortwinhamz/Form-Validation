@@ -110,18 +110,3 @@ function setSuccessFor(input){
 }
 
 
-
-
-//This is for the Email Input
-
-
-// if(emailValue === ''){
-
-
-//     // Show the error
-//     // Add error class
-
-//     setErrorFor(email, 'Email cannot be blank')
-// } else{
-//     setSuccessFor(email)
-// }
